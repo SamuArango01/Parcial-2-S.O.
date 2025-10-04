@@ -1,13 +1,6 @@
 # Parcial-2-S.O.
 
-Perfecto ✅
-Aquí tienes el contenido **listo para copiar y pegar** directamente en tu `README.md` de GitHub.
-Incluye formato Markdown, emojis y se ve bien tanto en modo claro como oscuro 👇
 
----
-
-````markdown
-# 💬 Chat por Colas de Mensajes System V (C)
 
 **AUTORES:** Alyson Henao, Emily Cardona, Samuel Moncada y Samuel Arango
 
@@ -243,15 +236,4 @@ Usuario Ana entró a Sala1
 Usuario Luis entró a Sala1
 [Sala1] Ana: Hola!
 [Sala1] Luis: Hola Ana
-```
-
----
-
-💡 **Proyecto desarrollado en C con colas de mensajes System V, hilos POSIX y comunicación asíncrona entre procesos.**
-
-```
-
----
-
-¿Quieres que le agregue al final una sección de “Créditos institucionales” o una firma tipo “Proyecto de Pensamiento Computacional - Universidad Nacional de Colombia”? Puedo formatearla para que quede lista para subir.
 ```
